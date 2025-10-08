@@ -4,3 +4,6 @@
 [submodule "curso3/gia_iacu_practica2"]
 	path = curso3/gia_iacu_practica2
 	url = git@github.com:wrstdani/gia_iacu_practica2.git
+[submodule "curso3/gia_ab2"]
+	path = curso3/gia_ab2
+	url = git@github.com:wrstdani/gia_ab2.git
