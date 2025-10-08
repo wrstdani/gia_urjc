@@ -28,3 +28,6 @@
 [submodule "curso1/gia_pd"]
 	path = curso1/gia_pd
 	url = git@github.com:wrstdani/gia_pd.git
+[submodule "curso3/gia_is_practica2"]
+	path = curso3/gia_is_practica2
+	url = git@github.com:wrstdani/gia_is_practica2.git
