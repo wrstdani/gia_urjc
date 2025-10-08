@@ -16,3 +16,6 @@
 [submodule "curso3/gia_nlp1"]
 	path = curso3/gia_nlp1
 	url = git@github.com:wrstdani/gia_nlp1.git
+[submodule "curso2/gia_ssoo_practica2"]
+	path = curso2/gia_ssoo_practica2
+	url = git@github.com:wrstdani/gia_ssoo_practica2.git
