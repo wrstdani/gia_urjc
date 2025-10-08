@@ -7,3 +7,6 @@
 [submodule "curso3/gia_ab2"]
 	path = curso3/gia_ab2
 	url = git@github.com:wrstdani/gia_ab2.git
+[submodule "curso2/gia_ed2_examenes"]
+	path = curso2/gia_ed2_examenes
+	url = git@github.com:wrstdani/gia_ed2_examenes.git
