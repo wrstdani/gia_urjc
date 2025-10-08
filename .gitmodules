@@ -19,3 +19,6 @@
 [submodule "curso2/gia_ssoo_practica2"]
 	path = curso2/gia_ssoo_practica2
 	url = git@github.com:wrstdani/gia_ssoo_practica2.git
+[submodule "curso3/gia_cv_practica1"]
+	path = curso3/gia_cv_practica1
+	url = git@github.com:wrstdani/gia_cv_practica1.git
